@@ -1,4 +1,4 @@
-# ReAquify Solution for Hacktahon
+# ReAquify
 
 Contributors: [@AdoredSky](https://github.com/SJ3357208)
 
